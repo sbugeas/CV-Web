@@ -1,0 +1,23 @@
+.content {
+    display: flex;
+    justify-content: center;
+}
+
+.left_Part{
+    width: 15%;
+    background-color :antiquewhite;
+    text-align: center;
+}
+
+.left_Part ul, .left_Part li{
+    text-align: left;
+}
+
+.right_Part{
+    width: 80%;
+    background-color: white
+}
+
+img{
+    max-width: 150px;
+}
